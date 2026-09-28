@@ -4,9 +4,6 @@ C++ gameplay source for a third-person action RPG built in Unreal Engine 5.
 
 > **Code only.** Assets, maps, and Blueprints are not included in this repository, so the project can't be opened or run from this repo alone. See the demo video for the game in action.
 
-**Gameplay demo:** [add video link]
-**Portfolio:** [add portfolio link]
-
 ---
 
 ## About this project
@@ -54,4 +51,4 @@ Assets, maps, Blueprints, and third-party content (for example, Quixel Megascans
 
 ## Contact
 
-Sahil · [LinkedIn profile link]
+Sahil - www.linkedin.com/in/sahild48
